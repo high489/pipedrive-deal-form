@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/pipedrive-deal-form/static/css/main.19b7e373.css",
+    "main.js": "/pipedrive-deal-form/static/js/main.1e182cb4.js",
+    "static/js/787.c86e8dec.chunk.js": "/pipedrive-deal-form/static/js/787.c86e8dec.chunk.js",
+    "index.html": "/pipedrive-deal-form/index.html",
+    "main.19b7e373.css.map": "/pipedrive-deal-form/static/css/main.19b7e373.css.map",
+    "main.1e182cb4.js.map": "/pipedrive-deal-form/static/js/main.1e182cb4.js.map",
+    "787.c86e8dec.chunk.js.map": "/pipedrive-deal-form/static/js/787.c86e8dec.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.19b7e373.css",
+    "static/js/main.1e182cb4.js"
+  ]
+}
